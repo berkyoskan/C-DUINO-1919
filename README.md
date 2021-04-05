@@ -9,5 +9,5 @@ Lehimlenmesi oldukça zor parçalar içermektedir.
 
 Production and soldering this card is under your responsibility. 
 Due to problems on the card design, may cause issues and those are not under my responsibility.
-It contains the parts which are hard to solder. 
+It contains the components which are hard to solder. 
 
