@@ -22,4 +22,4 @@ Bunun haricinde CH340G ve Atmega328p-au'nun kullanımını test etmek amacıyla 
 
 Arkasında bulunan *Discover the potential* logosu da Türk Milleti'nin her şeyi yapabilecek bilgi ve azme sahip olduğunu hatırlatmak amacıyla bulunmaktadır.
 
-Üzerinde bulunan *M.Kemal Atatürk'ün* imzası bize _Türkiye Cumhuriyeti'ni_ armağan eden Mustafa Kemal Atatürk'e ve silah arkadaşlarına bir teşekkür maiyetindedir.
+Üzerinde bulunan *M.Kemal Atatürk'ün imzası* bize _Türkiye Cumhuriyeti_'ni armağan eden Mustafa Kemal Atatürk'e ve silah arkadaşlarına bir teşekkür maiyetindedir.
