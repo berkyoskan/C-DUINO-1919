@@ -7,7 +7,7 @@ Bu kartı ürettirmek ve lehimlemek tamamen kendi sorumluluğunuzdadır.
 Kart tasarımındaki hatalar sebebiyle oluşabilecek hasarlardan şahsım sorumlu değildir.
 Lehimlenmesi oldukça zor parçalar içermektedir. 
 
-Production and soldering this card is under your responsibility. 
-Due to problems on the card design, may cause issues and those are not under my responsibility.
+Production and soldering of this card is under your responsibility. 
+Due to the problems on card design, may cause issues and those are not under my responsibility.
 It contains the components which are hard to solder. 
 
