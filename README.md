@@ -1,4 +1,4 @@
-# C-DUINO
+# C-DUINO 1919
 Arduino Nano tabanlı geliştirme kartı. Ekstra güç pinleri ve type-c girişine sahip. Hala geliştirme sürecinde. Programlayıcı olarak CH340G kullanmaktadır.
 
 A development board based on *Arduino Nano* with a type-c port and extra power pins. Still at the development process. Uses CH340G as the programmer chip.
